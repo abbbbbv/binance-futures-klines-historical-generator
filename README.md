@@ -8,7 +8,3 @@ This repository contains a Python script that fetches historical candlestick (Kl
 - Supports customizable timeframes.
 - Saves data in a CSV-like format for easy analysis.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Binance-Historical-Data-Exporter.git
